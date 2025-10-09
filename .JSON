@@ -21,11 +21,17 @@
     "age":88
   }
   {
-     "name":"Izzy Mazza",
+    "name":"Izzy Mazza",
     "relationship":"Friend",
     "contact":"526imazza@frhsd.com",
-    "hobbies": ["Reading Comics", "", "Listening to K-Pop"],
+    "hobbies": ["Reading Comics", "Drawing", "Watching Anime"],
     "age":17
   }
-
+  {
+   "name":"",
+    "relationship":"Friend",
+    "contact":"526imazza@frhsd.com",
+    "hobbies": ["Reading Comics", "Drawing", "Watching Anime"],
+    "age":17
+  }
 ]
