@@ -1,0 +1,31 @@
+[
+  {
+    "name":"Kristen Tsim",
+    "relationship":"Friend",
+    "contact":"526ktsim@frhsd.com",
+    "hobbies": ["Violin", "Traveling", "Listening to K-Pop"],
+    "age":17
+  }
+  {
+    "name":"Annie Liang",
+    "relationship":"Friend",
+    "contact":"526aliang@frhsd.com",
+    "hobbies": ["Play Roblox", "Looking on Discord", "Playing Games"],
+    "age":17
+  }
+  {
+    "name":"Harry Truman",
+    "relationship":"Friend",
+    "contact":"formerPOTUS1945@gmail.com",
+    "hobbies": ["Playing the piano", "Reading", "Swimming"],
+    "age":88
+  }
+  {
+     "name":"Izzy Mazza",
+    "relationship":"Friend",
+    "contact":"526imazza@frhsd.com",
+    "hobbies": ["Reading Comics", "", "Listening to K-Pop"],
+    "age":17
+  }
+
+]
