@@ -1,37 +1,36 @@
 [
   {
-    "name":"Kristen Tsim",
+    "name":"Michael Palin",
     "relationship":"Friend",
-    "contact":"526ktsim@frhsd.com",
-    "hobbies": ["Violin", "Traveling", "Listening to K-Pop"],
-    "age":17
+    "contact":"ItsSpanishInquisitionBitch@gmail.com",
+    "hobbies": ["Writing", "Traveling", "Running"],
+    "age": 82
+  }
+  { 
+    "name":"John Cleese",
+    "relationship":"Friend",
+    "contact":"TheSillyWalker@gmail.com",
+    "hobbies": ["Writing", "Comedy", "Animals"],
+    "age": 85
   }
   {
-    "name":"Annie Liang",
+    "name":"Eric Idle",
     "relationship":"Friend",
-    "contact":"526aliang@frhsd.com",
-    "hobbies": ["Play Roblox", "Looking on Discord", "Playing Games"],
-    "age":17
+    "contact":"TheNudgeNudger@gmail.com",
+    "hobbies": ["Songwriting", "Writing", "Watching Soccer"],
+    "age": 82
   }
   {
-    "name":"Harry Truman",
+    "name":"Terry Gilliam",
     "relationship":"Friend",
-    "contact":"formerPOTUS1945@gmail.com",
-    "hobbies": ["Playing the piano", "Reading", "Swimming"],
-    "age":88
+    "contact":"AnimatorExtraordinaire@gmail.com",
+    "hobbies": ["", "Writing", "Watching Soccer"],
+    "age": 84
   }
   {
-    "name":"Izzy Mazza",
-    "relationship":"Friend",
-    "contact":"526imazza@frhsd.com",
-    "hobbies": ["Reading Comics", "Drawing", "Watching Anime"],
-    "age":17
+
   }
   {
-   "name":"",
-    "relationship":"Friend",
-    "contact":"526imazza@frhsd.com",
-    "hobbies": ["Reading Comics", "Drawing", "Watching Anime"],
-    "age":17
+
   }
 ]
