@@ -30,9 +30,16 @@
   {
     "name":"Terry Jones",
     "relationship":"Friend",
-    "contact":"",
-    "hobbies": ["Animation", "Filmmaking", "Cartooning"],
-    "age": 84
+    "contact":"DeliciousChocolateMaker@gmail.com",
+    "hobbies": ["Writing Children's Books", "History", "Comedy"],
+    "age": 77
+  }
+  {
+    "name":"Graham Chapman",
+    "relationship":"Friend",
+    "contact":"KingArthurSlay@gmail.com",
+    "hobbies": ["Comedy", "Acting", "Extreme Sports"],
+    "age": 48
   }
 
 ]
