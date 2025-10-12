@@ -24,13 +24,15 @@
     "name":"Terry Gilliam",
     "relationship":"Friend",
     "contact":"AnimatorExtraordinaire@gmail.com",
-    "hobbies": ["", "Writing", "Watching Soccer"],
+    "hobbies": ["Animation", "Filmmaking", "Cartooning"],
     "age": 84
   }
   {
-
+    "name":"Terry Jones",
+    "relationship":"Friend",
+    "contact":"",
+    "hobbies": ["Animation", "Filmmaking", "Cartooning"],
+    "age": 84
   }
-  {
 
-  }
 ]
