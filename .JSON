@@ -5,35 +5,35 @@
     "contact":"ItsSpanishInquisitionBitch@gmail.com",
     "hobbies": ["Writing", "Traveling", "Running"],
     "age": 82
-  }
+  },
   { 
     "name":"John Cleese",
     "relationship":"Friend",
     "contact":"TheSillyWalker@gmail.com",
     "hobbies": ["Writing", "Comedy", "Animals"],
     "age": 85
-  }
+  },
   {
     "name":"Eric Idle",
     "relationship":"Friend",
     "contact":"TheNudgeNudger@gmail.com",
     "hobbies": ["Songwriting", "Writing", "Watching Soccer"],
     "age": 82
-  }
+  },
   {
     "name":"Terry Gilliam",
     "relationship":"Friend",
     "contact":"AnimatorExtraordinaire@gmail.com",
     "hobbies": ["Animation", "Filmmaking", "Cartooning"],
     "age": 84
-  }
+  },
   {
     "name":"Terry Jones",
     "relationship":"Friend",
     "contact":"DeliciousChocolateMaker@gmail.com",
     "hobbies": ["Writing Children's Books", "History", "Comedy"],
     "age": 77
-  }
+  },
   {
     "name":"Graham Chapman",
     "relationship":"Friend",
@@ -41,5 +41,4 @@
     "hobbies": ["Comedy", "Acting", "Extreme Sports"],
     "age": 48
   }
-
 ]
