@@ -20,6 +20,6 @@ document.getElementById("load").addEventListener("click", function () {
             }
 
         };
-        xhr.send();
+        xhr.send(membersArray);
     });
 });
