@@ -18,8 +18,8 @@ document.getElementById("load").addEventListener("click", function () {
                     `<p><strong>${member.name}</strong> - ${member.relationship} - ${member.contact} - ${member.hobbies.join(", ")} - (${member.age} AGE)</p>`
                 ).join('');
             }
-
+              
         };
-        xhr.send(membersArray);
+        xhr.send
     });
 });
