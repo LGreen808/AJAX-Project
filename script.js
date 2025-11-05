@@ -8,7 +8,7 @@ let membersArray = [
 ];
 document.getElementById("load").addEventListener("click", function () {
 
-    membersArray.forEach(_member => {
+    
         const xhr = new XMLHttpRequest(); // Creates a new request
         xhr.open("GET", "data.json", true); // Prepares the request above
         xhr.onload = function () {
@@ -20,6 +20,8 @@ document.getElementById("load").addEventListener("click", function () {
             }
               
         };
-        xhr.send
+        xhr.send(); // Sends the request
     });
-});
+
+    const cards = document.getElementById("cards");
+    
