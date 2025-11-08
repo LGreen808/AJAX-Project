@@ -13,9 +13,14 @@ body {
    border-color: black;
    border-width: bold; 
    margin: 0 auto;
+   text-align: center;
 }
 
 h1,h3 {
+   text-align: center;
+}
+
+.waiting {
    text-align: center;
 }
 
@@ -23,4 +28,6 @@ h1,h3 {
    margin-left: 6px;
    margin-right: 6px; 
    margin: 0 auto;
+   position: absolute;
+   width: 100px;
 }
