@@ -22,6 +22,8 @@ h1,h3 {
 
 .waiting {
    text-align: center;
+   
+
 }
 
 #load {
@@ -29,5 +31,6 @@ h1,h3 {
    margin-right: 6px; 
    margin: 0 auto;
    position: absolute;
-   width: 100px;
+   width: 50%;
+   text-align: center;
 }
