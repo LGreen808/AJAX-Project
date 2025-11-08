@@ -5,11 +5,14 @@ body {
    height: 100%;
    width: 100%;
    margin: 0px;
-padding: 0px;
+   padding: 0px;
 }
 
 .card {
    background-color: lightgray;
+   border-color: black;
+   border-width: bold; 
+   margin: 0 auto;
 }
 
 h1,h3 {
@@ -17,7 +20,7 @@ h1,h3 {
 }
 
 #load {
-   text-align: center;
    margin-left: 6px;
    margin-right: 6px; 
+   margin: 0 auto;
 }

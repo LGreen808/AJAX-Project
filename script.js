@@ -24,4 +24,6 @@ document.getElementById("load").addEventListener("click", function () {
     });
 
     const cards = document.getElementById("cards");
-    
+    cards.innerHTML = membersArray.map(member =>
+                    `<p><strong>${member.name}</strong> - ${member.relationship} - ${member.contact} - ${member.hobbies.join(", ")} - (${member.age} AGE)</p>`
+                ).join('');       
