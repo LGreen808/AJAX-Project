@@ -3,8 +3,21 @@ body {
    background-size: cover;
    background-repeat: no-repeat;
    height: 100%;
+   width: 100%;
+   margin: 0px;
+padding: 0px;
 }
 
 .card {
    background-color: lightgray;
+}
+
+h1,h3 {
+   text-align: center;
+}
+
+#load {
+   text-align: center;
+   margin-left: 6px;
+   margin-right: 6px; 
 }
